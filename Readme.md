@@ -16,4 +16,4 @@ El dataset no está incluido en el proyecto para no ocupar un espacio innecesari
 
 La resolución de la práctica se ha hecho en Python usando un notebook de Jupyter donde se explica todo el procedimiento paso a paso.
 
-[Cuaderno de Jupyter](resolucion.jpynb)
+[Cuaderno de Jupyter](resolucion.ipynb)
